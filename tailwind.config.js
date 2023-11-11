@@ -13,9 +13,13 @@ export default {
         brandLightBlue: '#F4F6FA',
         brandWhite: '#FFFFFF',
         brandGreen: '#26D782',
-        brandRed: '#EE5454'
-      }
-    }
+        brandRed: '#EE5454',
+      },
+      fontFamily: {
+        // Add your custom font family here
+        rubik: ['Rubik', 'sans'],
+      },
+    },
   },
-  plugins: []
-}
+  plugins: [],
+};
